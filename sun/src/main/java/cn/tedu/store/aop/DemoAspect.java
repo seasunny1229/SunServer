@@ -15,8 +15,7 @@ import org.springframework.stereotype.Component;
 @Component
 @Aspect //来自 AspectJ的注解
 public class DemoAspect {
-	
-	//
+  
 	//来自 AspectJ的注解
 	//在 userService的全部方法之前执行
 	//切面组件的demo方法
